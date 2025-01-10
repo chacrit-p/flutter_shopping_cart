@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Xiaomi 12T (8/256GB) : Clear Blue",
+        "price": 179900.0,
+        "image": "/assets/images/20221007175648_1.jpg"
+    },
+    {
+        "title": "iQOO Z9x 5G (8/256GB) : Northern Green",
+        "price": 89990.0,
+        "image": "/assets/images/20240514182527_1.jpg"
+    },
+    {
+        "title": "iQOO Z9x 5G (8/256GB) : Mystic Black",
+        "price": 89990.0,
+        "image": "/assets/images/20240514182256_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy S24 FE 5G (8/256GB) : Mint",
+        "price": 259000.0,
+        "image": "/assets/images/20240926184053_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy S24 FE 5G (8/256GB) : Blue",
+        "price": 259000.0,
+        "image": "/assets/images/20240926183938_1.jpg"
+    },
+    {
+        "title": "vivo V40 Pro 5G (12/512GB) : Stellar Silver",
+        "price": 249990.0,
+        "image": "/assets/images/20240829171044_1.jpg"
+    },
+    {
+        "title": "realme 12 Pro Plus 5G (12/512GB) : Navigator Beige",
+        "price": 169990.0,
+        "image": "/assets/images/20240322134109_1.jpg"
+    },
+    {
+        "title": "realme 12 Pro Plus 5G (12/512GB) : Submarine Blue",
+        "price": 169990.0,
+        "image": "/assets/images/20240322133726_1.jpg"
+    },
+    {
+        "title": "realme 12 Pro Plus 5G (8/256GB) : Submarine Blue",
+        "price": 139990.0,
+        "image": "/assets/images/20240322135218_1.jpg"
+    },
+    {
+        "title": "realme 12 Pro Plus 5G (8/256GB) : Navigator Beige",
+        "price": 139990.0,
+        "image": "/assets/images/20240322134547_1.jpg"
+    },
+    {
+        "title": "realme 12 Plus 5G (8/256GB) : Pioneer Green",
+        "price": 99990.0,
+        "image": "/assets/images/20240322132545_1.jpg"
+    },
+    {
+        "title": "realme 12 Plus 5G (8/256GB) : Navigator Beige",
+        "price": 99990.0,
+        "image": "/assets/images/20240322132819_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy A05s (6/128GB) : Silver",
+        "price": 4499549910000.0,
+        "image": "/assets/images/20231005113708_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy A06 (4/128GB) : Black",
+        "price": 399942993000.0,
+        "image": "/assets/images/20240829092657_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy A06 (4/128GB) : Light Green",
+        "price": 399942993000.0,
+        "image": "/assets/images/20240829092444_1.jpg"
+    },
+    {
+        "title": "vivo Y03t (4/64GB) : Gem Green",
+        "price": 32990.0,
+        "image": "/assets/images/20240830163121_1.jpg"
+    },
+    {
+        "title": "vivo Y03t (4/64GB) : Space Black",
+        "price": 32990.0,
+        "image": "/assets/images/20240830162838_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy A06 (4/64GB) : Light Green",
+        "price": 299936997000.0,
+        "image": "/assets/images/20240829093742_1.jpg"
+    },
+    {
+        "title": "Xiaomi Mix Flip 5G (12/512GB) : PURPLE",
+        "price": 399900.0,
+        "image": "/assets/images/20240928094527_1.jpg"
+    },
+    {
+        "title": "Xiaomi Mix Flip 5G (12/512GB) : BLACK",
+        "price": 399900.0,
+        "image": "/assets/images/20240928094337_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T Pro 5G (12/1TB) : Titan Blue",
+        "price": 249900.0,
+        "image": "/assets/images/20240928092349_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T Pro 5G (12/1TB) : Titan Gray",
+        "price": 249900.0,
+        "image": "/assets/images/20240928092007_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T Pro 5G (12/512GB) : Titan Blue",
+        "price": 219900.0,
+        "image": "/assets/images/20240928090816_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T Pro 5G (12/512GB) : Titan Gray",
+        "price": 219900.0,
+        "image": "/assets/images/20240928090032_1.jpg"
+    },
+    {
+        "title": "vivo V40 5G (12/256GB) : Nebula Purple",
+        "price": 159990.0,
+        "image": "/assets/images/20240829165539_1.jpg"
+    },
+    {
+        "title": "vivo V40 5G (12/256GB) : Stellar Silver",
+        "price": 159990.0,
+        "image": "/assets/images/20240829164225_1.jpg"
+    },
+    {
+        "title": "Xiaomi Radmi Note 13 Pro Plus 5G (8/256GB) : Aurora Purple",
+        "price": 129900.0,
+        "image": "/assets/images/20240116091836_1.jpg"
+    },
+    {
+        "title": "HUAWEI Mate X6 LTE (12/512GB) : Nebula Red",
+        "price": 669900.0,
+        "image": "/assets/images/20241223180654_1.jpg"
+    },
+    {
+        "title": "HUAWEI Mate X6 LTE (12/512GB) : Black",
+        "price": 669900.0,
+        "image": "/assets/images/20241223180419_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T Pro 5G (12/512GB) : Titan Black",
+        "price": 219900.0,
+        "image": "/assets/images/20240928091337_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T 5G (12/512GB) : Lemon Green",
+        "price": 179900.0,
+        "image": "/assets/images/20240928085540_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T 5G (12/512GB) : Titan Gray",
+        "price": 179900.0,
+        "image": "/assets/images/20240928084833_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T 5G (12/512GB) : Titan Blue",
+        "price": 179900.0,
+        "image": "/assets/images/20240928084610_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T 5G (12/512GB) : Titan Black",
+        "price": 179900.0,
+        "image": "/assets/images/20240928084410_1.jpg"
+    },
+    {
+        "title": "vivo V30 5G (12/512GB) : Shell white",
+        "price": 174990.0,
+        "image": "/assets/images/20240222133313_1.jpg"
+    },
+    {
+        "title": "vivo V40 5G (12/256GB) : Sunglow Peach",
+        "price": 159990.0,
+        "image": "/assets/images/20240829164501_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T 5G (12/256GB) : Lemon Green",
+        "price": 159900.0,
+        "image": "/assets/images/20240928084056_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T 5G (12/256GB) : Titan Gray",
+        "price": 159900.0,
+        "image": "/assets/images/20240928083931_1.jpg"
+    },
+    {
+        "title": "Xiaomi 14T 5G (12/256GB) : Titan Black",
+        "price": 159900.0,
+        "image": "/assets/images/20240928083332_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy A55 5G (12/256GB) : Awesome Iceblue",
+        "price": 149991599910000.0,
+        "image": "/assets/images/20240311171855_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy A55 5G (12/256GB) : Awesome Lilac",
+        "price": 149991599910000.0,
+        "image": "/assets/images/20240311171710_1.jpg"
+    },
+    {
+        "title": "vivo V30 5G (12/256GB) :  Green Sea",
+        "price": 149990.0,
+        "image": "/assets/images/20240222132200_1.jpg"
+    },
+    {
+        "title": "vivo V30 5G (12/256GB) : Shell white",
+        "price": 149990.0,
+        "image": "/assets/images/20240222131527_1.jpg"
+    },
+    {
+        "title": "vivo V30 5G (12/256GB) : Night Sky Black",
+        "price": 149990.0,
+        "image": "/assets/images/20240222121134_1.jpg"
+    },
+    {
+        "title": "iQOO Z9x 5G (12/256GB) : Northern Green",
+        "price": 99990.0,
+        "image": "/assets/images/20240514183137_1.jpg"
+    },
+    {
+        "title": "iQOO Z9x 5G (12/256GB) : Mystic Black",
+        "price": 99990.0,
+        "image": "/assets/images/20240514183000_1.jpg"
+    },
+    {
+        "title": "realme 9i 5G (6/128GB) : Rocking Black",
+        "price": 94990.0,
+        "image": "/assets/images/20220819152819_1.jpg"
+    },
+    {
+        "title": "HONOR X8b (8/512GB) : Titanium Silver",
+        "price": 79990.0,
+        "image": "/assets/images/20240514174249_1.jpg"
+    },
+    {
+        "title": "HONOR X8b (8/512GB) : Glamorous Green",
+        "price": 79990.0,
+        "image": "/assets/images/20240514174133_1.jpg"
+    },
+    {
+        "title": "HONOR 200 Smart 5G (8/256GB) : Forest Green",
+        "price": 69990.0,
+        "image": "/assets/images/20241127180104_1.jpg"
+    },
+    {
+        "title": "HONOR 200 Smart 5G (8/256GB) : Moonlight White",
+        "price": 69990.0,
+        "image": "/assets/images/20241127175850_1.jpg"
+    },
+    {
+        "title": "realme C65 (8/256GB) : Starlight Purple",
+        "price": 64990.0,
+        "image": "/assets/images/20240523180059_1.jpg"
+    },
+    {
+        "title": "Xiaomi Redmi 13 (8/128GB) : Pearl Pink",
+        "price": 54990.0,
+        "image": "/assets/images/20240703170442_1.jpg"
+    },
+    {
+        "title": "Xiaomi Redmi 13 (8/128GB) : Ocean Blue",
+        "price": 54990.0,
+        "image": "/assets/images/20240703170049_1.jpg"
+    },
+    {
+        "title": "Xiaomi Redmi 13 (8/128GB) : Midnight Black",
+        "price": 54990.0,
+        "image": "/assets/images/20240703165750_1.jpg"
+    },
+    {
+        "title": "realme Note 60x (4/64GB) : Wilderness Green",
+        "price": 31990.0,
+        "image": "/assets/images/20241219171818_1.jpg"
+    },
+    {
+        "title": "realme Note 60x (4/64GB) : Marble Black",
+        "price": 31990.0,
+        "image": "/assets/images/20241219171645_1.jpg"
+    },
+    {
+        "title": "Xiaomi Redmi A3 (4/128GB) : Midnight Black",
+        "price": 31990.0,
+        "image": "/assets/images/20240311101546_1.jpg"
+    },
+    {
+        "title": "Samsung Galaxy A06 (4/64GB) : Black",
+        "price": 299936997000.0,
+        "image": "/assets/images/20240829093350_1.jpg"
+    },
+    {
+        "title": "XIAOMI 14 ULTRA 5G (16/512GB) : BLACK",
+        "price": 409900.0,
+        "image": "/assets/images/20240314085330_1.jpg"
+    }
+]
